@@ -59,6 +59,7 @@
 
     <dependencies>
 
+        <!-- Spring -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
@@ -83,6 +84,7 @@
             <version>1.10.4.RELEASE</version>
         </dependency>
 
+        <!-- hibernate & mysql-->
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-entitymanager</artifactId>
